@@ -16,4 +16,19 @@ objectives:
 
 Don't forget:
     - definition of done
-    - handling errors 
+    - handling errors
+
+
+# Reading from a file and making an object
+## Object
+- NewUsers with that takes names as an argument.
+### attributes
+- names
+### methods
+- user_info it return the information of the objects
+
+## Function
+- read_file
+  - takes in the file name as an argument
+  - reads the file passed in from the argument
+  - and returns a list of everything inside a txt file
